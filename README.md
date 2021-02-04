@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on getting vertifications on Deep Learning Feild 
+- 🔭 I’m currently working on getting certifications on Deep Learning Feild 
 - 🌱 I’m currently learning  Computer Vision, Natural Language Processing
 - 👯 I’m looking to collaborate on any Machine Learning / Deep Learning Projects
 - 🤔 I’m looking for help with Carrer 
