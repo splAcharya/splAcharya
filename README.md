@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Machine Learning / Deep Learning Projects
 - 🤔 I’m looking for help with Carrer 
 - 💬 Ask me about Machine Learning / Deep Learning
-- 📫 How to reach me: spl.acharya@outlook.com | https://www.linkedin.com/public-profile/in/splacharya/
+- 📫 How to reach me: spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/
 - 😄 Pronouns: He/His/Him
  
 
