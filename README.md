@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
 - 📫 How to reach me: spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/
 - 😄 Pronouns: He/His/Him
+ <hr>
  
- <hr><br>
- <h1> Projects </h1> <br>
-
+ <h1> Projects </h1>
  <table>
   <tr>
    <th> ML/DL/CV/NLP Projects </th>
