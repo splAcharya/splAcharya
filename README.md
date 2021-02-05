@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <table>
   <tr>
    <th> ML/DL/CV/NLP Projects </th>
-   <th> Embedded Systems/DSP Projects </th>
+   <th> Embedded/DSP Systems Projects </th>
   </tr>
  
   <tr>
