@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Machine Learning /  Deep Learning / Computer Vision/  Natural Language Processing 
 - 🌱 I’m currently learning  Computer Vision, Natural Language Processing
 - 👯 I’m looking to collaborate on any Machine Learning / Deep Learning Projects
-- 🤔 I’m looking for help with Carrer 
+- 🤔 I’m looking for help with finding Full time opppurtunities On Software Development, ML, DL, NLP, CV areas
 - 💬 Ask me about Machine Learning / Deep Learning
 - 📫 How to reach me: spl.acharya@outlook.com | https://www.linkedin.com/public-profile/in/splacharya/
 - 😄 Pronouns: He/His/Him
