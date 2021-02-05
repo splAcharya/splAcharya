@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/
 - 😄 Pronouns: He/His/Him
  
- <br>
+ <hr><br>
  <h1> Projects </h1> <br>
 
  <table>
