@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **splAcharya/splAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on Machine Learning /  Deep Learning / Computer Vision/  Natural Language Processing 
 - 🌱 I’m currently learning  Computer Vision, Natural Language Processing
@@ -13,13 +12,15 @@
 Here are some ideas to get you started:
 -->
 
+# Swapnil Acharya
+- 📧 spl.acharya@outlook.com | https://www.linkedin.com/public-profile/in/splacharya/
 - 🔭 I’m currently working on getting certifications on Deep Learning Feild 
 - 🌱 I’m currently learning  Computer Vision, Natural Language Processing
 - 👯 I’m looking to collaborate on any Machine Learning / Deep Learning Projects
 - 🤔 I’m looking for help with finding Full time opppurtunities On Software Development, ML, DL, NLP, CV areas
 - 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
-- 📫 How to reach me: spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/
 - 😄 Pronouns: He/His/Him
+
  <hr>
  
  <h1> Projects </h1>
