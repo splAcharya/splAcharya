@@ -53,12 +53,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/splAcharya/DetectingStopSigns"> Detecting Stop Signs </a>
    </td>
   </tr> 
-
-  <tr>
-   <td>
-    <a href="">  </a>
-   </td>
-  </tr> 
   
  </table>
  
