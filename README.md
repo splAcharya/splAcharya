@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Swapnil Acharya
 - 📧 spl.acharya@outlook.com | https://www.linkedin.com/public-profile/in/splacharya/
-- 🔭 I’m currently working on getting certifications on Deep Learning Feild 
+- 🔭 I’m currently working on getting certifications, doing projects on Deep Learning Feild.
 - 🌱 I’m currently learning  Computer Vision, Natural Language Processing
 - 👯 I’m looking to collaborate on any Machine Learning / Deep Learning Projects
 - 🤔 I’m looking for help with finding Full time opppurtunities On Software Development, ML, DL, NLP, CV areas
