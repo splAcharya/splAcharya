@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  | ML/DL/CV/NLP Projects |
  |-----------------------|
- | [CNN Transfer Learning & Comparsion: Medical MNIST](https://github.com/splAcharya/Transfer_Learning_Comparision) |
+ | [CNN Transfer Learning & Comparsion:Medical MNIST](https://github.com/splAcharya/Transfer_Learning_Comparision) |
  | [Sentiment Analysis:IMDB Reviews](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis)|
  | [Naive Bayes Implementation](https://github.com/splAcharya/Naive_Bayes_Implementation) |
  | [ML WebApp Using StreamLit](https://github.com/splAcharya/ML_WebApp_Steamlit_Python)|
