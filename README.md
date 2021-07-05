@@ -29,6 +29,13 @@ Here are some ideas to get you started:
    <th> ML/DL/CV/NLP Projects </th>
   </tr>
  
+   <tr>
+   <td>
+    <a href="https://github.com/splAcharya/Transfer_Learning_Comparision"> CNN Transfer Learning & Comparsion: Medical MNIST </a>
+   </td>
+
+  </tr>
+ 
   <tr>
    <td>
     <a href="https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis"> Sentiment Analysis:IMDB Reviews </a>
