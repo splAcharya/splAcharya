@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
  # Projects </h1>
  
- | ML/DL/CV/NLP Projects |
+ | ML,DL,CV,NLP Projects |
  |-----------------------|
  | [CNN Transfer Learning & Comparsion: Medical MNIST](https://github.com/splAcharya/Transfer_Learning_Comparision) |
  | [Sentiment Analysis: IMDB Reviews](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis)|
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  | [Detecting Stop Signs](https://github.com/splAcharya/DetectingStopSigns)|
  
  
- |Embedded/DSP Systems Projects |
+ |Embedded,DSP Systems Projects |
  |------------------------------|
  | [Low Pass Filter using Xilinx FPGA](https://github.com/splAcharya/LowPassFilterFPGA) |
  | [Digital Oscillopscope and Spectral Analyzer using Xilinx SoC](https://github.com/splAcharya/DigitalOscilloscope_Zynq7000Soc) |
