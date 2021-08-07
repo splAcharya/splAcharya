@@ -31,8 +31,14 @@ Here are some ideas to get you started:
  | [Sentiment Analysis: IMDB Reviews](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis)|
  | [Naive Bayes Implementation](https://github.com/splAcharya/Naive_Bayes_Implementation) |
  | [K-Means Clustering](https://github.com/splAcharya/K_Means_Clustering) |
- | [ML WebApp Using StreamLit](https://github.com/splAcharya/ML_WebApp_Steamlit_Python)|
  | [Detecting Stop Signs](https://github.com/splAcharya/DetectingStopSigns)|
+ 
+ 
+ | Web/Software Dev Projects |
+ |-----------------------|
+ | [Movie Review Ranker (Django & Heeroku)](https://github.com/splAcharya/Movie_Review_Ranker)|
+ | [ML WebApp Using StreamLit](https://github.com/splAcharya/ML_WebApp_Steamlit_Python)|
+
  
  
  |Embedded,DSP Systems Projects |
