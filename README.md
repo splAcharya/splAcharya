@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
  | Web/Software Dev Projects |
  |-----------------------|
- | [Movie Review Ranker (Django & Heeroku)](https://github.com/splAcharya/Movie_Review_Ranker)|
+ | [Movie Review Ranker (Django & Heroku)](https://github.com/splAcharya/Movie_Review_Ranker)|
  | [ML WebApp Using StreamLit](https://github.com/splAcharya/ML_WebApp_Steamlit_Python)|
 
  
