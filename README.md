@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 I love coding, be it software or hardware. I am currently pursuing master’s degree in computer science. I also have a bachelor’ s degree in Computer Engineering. Currently, outside of college, I am doing certifications and projects in Machine Learning. My eventual goal is to focus on Computer Vision and Natural Language Processing. Currently I am working at Eden Medical, Inc as an embedded computer vision intern.
 
-As of now my primary programming language is Python. However, I am proficient in C/C++ as well.
+As of right now my primary programming language is Python. However, I am proficient in C/C++ as well.
 
 As part of my master’s degree, I am currently researching on Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
 
