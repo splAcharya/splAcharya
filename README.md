@@ -56,21 +56,21 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
 # Employment
 
-**Embedded Computer Vision Intern**, *[Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN*,  (January 2021 – Present) <br>
+**Embedded Computer Vision Intern**, *[Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN*,  ***(January 2021 – Present)*** <br>
 •Customized nvidia’s gpu optimized docker containers using dockerfile to deploy image processing applications on jetson nano. <br>
 •Developed image processing GUI using tkinter for deployment on jetson nano to analyze diabetic foot ulcer wounds.<br>
 •Implemented dynamic image segmentation system via contour plot and flood fill operations provided by open-cv.<br>
 •Implementing deep learning algorithms using tensorflow-keras for semantic segmentation of thermal wound images.<br>
 
-**Graduate Teaching Assistant**, *[Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University*, (January 2020 – December 2020) <br>
+**Graduate Teaching Assistant**, *[Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University*, ***(January 2020 – December 2020)*** <br>
 •Mentored students on concepts of data structures, algorithms, and distributed systems programming. <br>
 •Provided weekly in-depth feedback for 40-60 students on their programming assignments such as labs, projects. <br>
 
-**Community Advisor**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University*,  (August 2016 – May 2019) <br>
+**Community Advisor**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University*,  ***(August 2016 – May 2019)*** <br>
 •Promoted academic and personal success of 20-40 students by implementing weekly campus resource awareness events.<br>
 •Implemented weekly social and recreational events by collaborating and communicating with on campus organizations.<br>
  
-**Camps & Conferences Manager**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University*,  (May-August 2017,2018)<br>
+**Camps & Conferences Manager**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University*,  ***(May-August 2017,2018)***<br>
 •Supervised 10-15 diverse student employees by scheduling staffing responsibilities, preparing payroll reports and in person meetings.<br>
 
  
