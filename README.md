@@ -42,10 +42,10 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
  
 # Education
-**Master of Science in Computer Science**, *[St. Cloud State University](https://www.stcloudstate.edu/graduate/computer-science/default.aspx)* <br>
+**Master of Science in Computer Science**, *[St. Cloud State University](https://www.stcloudstate.edu/graduate/computer-science/default.aspx)*, ***(January 2020 – December 2021)***  <br>
 *Research (current):* Automated text summarization using NLP and unsupervised machine learning algorithms.
 
-**Bachelor of Science in Computer Engineering**, *[St. Cloud State University](https://www.stcloudstate.edu/ece/)* <br>
+**Bachelor of Science in Computer Engineering**, *[St. Cloud State University](https://www.stcloudstate.edu/ece/)*, ***(August 2015 – August 2019)***  <br>
 *Honors:* Magna Cum Laude
  
 # Certifications
