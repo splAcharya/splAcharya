@@ -49,8 +49,10 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 *Honors:* Magna Cum Laude
  
 # Certifications
-**![Deep Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/EHD8WC7H4US7)** *Neural Nets, Hyperparameter Tunning, Convolutional NNs, Recurrent NNs and Sequence Modelling.* <br>
-**![Machine Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/MJEYUZ4HEBA4)** *Regression, Regularization, Classification and Clustering.* 
+**[Deep Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/EHD8WC7H4US7)** *Neural Nets, Hyperparameter Tunning, Convolutional NNs, Recurrent NNs and Sequence Modelling.* <br>
+**[Machine Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/MJEYUZ4HEBA4)** *Regression, Regularization, Classification and Clustering.* <br>
+**[Getting Started with AI on Jetson Nano](https://courses.nvidia.com/certificates/ef8081f9bd124bd59be690b042ce856e)** <br>
+**[PGA Design for Embedded Systems](https://www.coursera.org/account/accomplishments/certificate/55HT8L4YN4LL)** <br>
 
 # Employment
 
