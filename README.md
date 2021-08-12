@@ -43,10 +43,10 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  
 # Education
 **Master of Science in Computer Science**, *[St. Cloud State University](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud, MN*, ***(January 2020 – December 2021)***  <br>
-*Research (current):* Automated text summarization using NLP and unsupervised machine learning algorithms.
+***Research (current):*** Automated text summarization using NLP and unsupervised machine learning algorithms.
 
 **Bachelor of Science in Computer Engineering**, *[St. Cloud State University](https://www.stcloudstate.edu/ece/), St. Cloud, MN*, ***(August 2015 – August 2019)***  <br>
-*Honors:* Magna Cum Laude
+***Honors:*** Magna Cum Laude
  
 # Certifications
 **[Deep Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/EHD8WC7H4US7)** *Neural Nets, Hyperparameter Tunning, Convolutional NNs, Recurrent NNs and Sequence Modelling.* <br>
