@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 # Swapnil Acharya 
-- 📧 spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/
+- 📧 spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/ | St. Cloud, MN
 - 🤔 I’m looking for Full time opppurtunities On Software Development, ML, DL, NLP, CV areas
 - 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
 
@@ -40,10 +40,10 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
  
 # Education
-**Master of Science in Computer Science**, *St. Cloud State University* <br>
+**Master of Science in Computer Science**, *[St. Cloud State University](https://www.stcloudstate.edu/programs/computer-science/default.aspx)* <br>
 *Research (current):* Automated text summarization using NLP and unsupervised machine learning algorithms.
 
-**Bachelor of Science in Computer Engineering**, *St. Cloud State University* <br>
+**Bachelor of Science in Computer Engineering**, *[St. Cloud State University](https://www.stcloudstate.edu/ece/)* <br>
 *Honors:* Magna Cum Laude
  
 # Certifications
