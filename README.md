@@ -78,6 +78,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  
  | ML,DL,CV,NLP Projects (*Python*)|
  |-----------------------|
+ | [Intel_Image_Classifcaion Using Transfer Learning](https://github.com/splAcharya/Intel_Image_Classification) |
  | [CNN Transfer Learning & Comparsion: Medical MNIST](https://github.com/splAcharya/Transfer_Learning_Comparision) |
  | [Sentiment Analysis: IMDB Reviews](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis)|
  | [Naive Bayes Implementation](https://github.com/splAcharya/Naive_Bayes_Implementation) |
