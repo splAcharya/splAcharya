@@ -99,4 +99,4 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [Digital Oscillopscope and Spectral Analyzer using Xilinx SoC](https://github.com/splAcharya/DigitalOscilloscope_Zynq7000Soc) |
  | [Audio Equalizer Using Matlab And Simulink](https://github.com/splAcharya/AudioEqualizerMatlab_Simulink) |
  | [Data Aquisition System using PIC uC](https://github.com/splAcharya/DataAquisitionBoard_PICuC) |
- | [8-bit Processor Ciruit Using Verilog](https://github.com/splAcharya/8BitProcessorCircuit_Verilog) |
+ | [8-bit Processor Ciruit Using Verilog](https://github.com/splAcharya/8BitProcessorCircuit_Verilog)|
