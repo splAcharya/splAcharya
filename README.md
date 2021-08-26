@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p>
 I love coding, be it software or hardware. I am currently pursuing master’s degree in computer science. I also have a bachelor’s degree in Computer Engineering. Outside of college, I do certifications and projects in Machine Learning. My eventual goal is to focus on Computer Vision and Natural Language Processing.
 
-Currently I work at Eden Medical, Inc as an embedded computer vision intern, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis using edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing) and tensorflow-Keras (for semantic segmentation and landmark detection).
+Currently I work at Eden Medical, Inc as an embedded computer vision intern, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis which is deployed on edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing) and tensorflow-Keras (for semantic segmentation and landmark detection).
 
 As part of my master’s degree, I am currently researching on Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
 
