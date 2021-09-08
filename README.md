@@ -74,7 +74,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 •Supervised 10-15 diverse student employees by scheduling staffing responsibilities, preparing payroll reports and in person meetings.<br>
 
  
- # Projects
+ # Open Source
  
  | ML,DL,CV,NLP Projects (*Python*)|
  |-----------------------|
