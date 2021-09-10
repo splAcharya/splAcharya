@@ -84,14 +84,13 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [Naive Bayes Implementation](https://github.com/splAcharya/Naive_Bayes_Implementation) |
  | [K-Means Clustering](https://github.com/splAcharya/K_Means_Clustering) |
  | [Detecting Stop Signs](https://github.com/splAcharya/DetectingStopSigns)|
- 
+
  
  | Web/Software Dev Projects (*Python,HTML,CSS,JavaScript*)|
  |-----------------------|
  | [Movie Review Ranker (Django & Heroku)](https://github.com/splAcharya/Movie_Review_Ranker)|
  | [ML WebApp Using StreamLit](https://github.com/splAcharya/ML_WebApp_Steamlit_Python)|
 
- 
  
  |Embedded,DSP Systems Projects (*C,C++,Verilog HDL*) |
  |------------------------------|
