@@ -46,7 +46,8 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 ***Research (current):*** Automated text summarization using NLP and unsupervised machine learning algorithms.
 
 **Bachelor of Science in Computer Engineering**, *[St. Cloud State University](https://www.stcloudstate.edu/ece/), St. Cloud, MN*, ***(August 2015 – August 2019)***  <br>
-***Honors:*** Magna Cum Laude
+***Honors:*** Magna Cum Laude <br>
+***Capstone Project:*** [American Sign Langauge Letter Transalator](https://github.com/splAcharya/ASL_Alphabet_Translator) <br>
  
 # Certifications
 **[Deep Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/EHD8WC7H4US7)** *Neural Nets, Hyperparameter Tunning, Convolutional NNs, Recurrent NNs and Sequence Modelling.* <br>
