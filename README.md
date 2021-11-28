@@ -34,9 +34,7 @@ Currently I work at Eden Medical, Inc as an embedded computer vision intern, whe
 
 As part of my master’s degree, I am currently researching on Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
 
-As of right now my primary programming language is Python. However, I am proficient in C/C++ as well.
-
-I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed systems that use Microcontrollers (ARM assembly and C/C++), FPGA(Verilog) and SOC (C/C++ and Verilog HDL). Most of my embedded systems projects focused on developing digital signal processing applications.
+I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed systems that use Microcontrollers, FPGA and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
 </p>
 
 
