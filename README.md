@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
 
 <p>
-I love coding, be it software or hardware. I am currently pursuing master’s degree in computer science. I also have a bachelor’s degree in Computer Engineering. Outside of college, I do certifications and projects in Machine Learning. My eventual goal is to focus on Computer Vision and Natural Language Processing.
+I love programming , be it software or hardware. I am currently pursuing Master’s degree in Computer Science. I also have a Bachelor’s degree in Computer Engineering.
+
+As part of my master’s degree, I am currently researching Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
 
 Currently I work at Eden Medical, Inc as an embedded computer vision intern, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis which is deployed on edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing) and tensorflow-Keras (for semantic segmentation and landmark detection).
 
-As part of my master’s degree, I am currently researching on Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
+Outside of college and work, I am doing certifications and projects to learn how Machine Learning can be used to solve problems in Computer Vision and Natural Language Processing areas.
 
-I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed systems that use Microcontrollers, FPGA and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
+I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed several systems that use Microcontrollers, FPGA(Verilog) and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
 </p>
 
 
