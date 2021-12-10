@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Swapnil Acharya 
+## Swapnil Acharya 
 - 📧 spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/ | St. Cloud, MN
 - 🤔 I’m looking for Full time opppurtunities On Software Development, ML, DL, NLP, CV areas
 - 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
