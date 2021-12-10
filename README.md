@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
 
 <p>
-I love programming , be it software or hardware. I am currently pursuing Master’s degree in Computer Science. I also have a Bachelor’s degree in Computer Engineering.
+I love programming , be it software or hardware. I am currently pursuing Master’s degree in Computer Science.
+
+In my graduate school coursework, I enjoy distributed systems programming the most. Outside of college and work, I am doing certifications and projects to learn how Machine Learning can be used to solve problems in Computer Vision and Natural Language Processing areas.
 
 As part of my master’s degree, I am currently researching Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
 
-Currently I work at Eden Medical, Inc as an embedded computer vision intern, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis which is deployed on edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing) and tensorflow-Keras (for semantic segmentation and landmark detection).
-
-Outside of college and work, I am doing certifications and projects to learn how Machine Learning can be used to solve problems in Computer Vision and Natural Language Processing areas.
+Currently I work at Eden Medical, Inc as an embedded software engineer for computer vision applications, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis which is deployed on edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing) and tensorflow-Keras (for object-detection, landmark detection and semantic segmentation).
 
 I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed several systems that use Microcontrollers, FPGA(Verilog) and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
 </p>
