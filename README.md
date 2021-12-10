@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p>
 I love programming , be it software or hardware. I am currently pursuing Master’s degree in Computer Science.
 
-In my graduate school coursework, I enjoy distributed systems programming the most. Outside of college and work, I am doing certifications and projects to learn how Machine Learning can be used to solve problems in Computer Vision and Natural Language Processing areas.
+In my graduate school coursework, I enjoyed distributed systems programming the most. Outside of college and work, I am doing certifications and projects to learn how Machine Learning can be used to solve problems in Computer Vision and Natural Language Processing areas.
 
 As part of my master’s degree, I am currently researching Automated text summarization using natural language processing techniques and unsupervised machine learning algorithms.
 
