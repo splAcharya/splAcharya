@@ -41,23 +41,25 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
 
  
-# Education
-**Master of Science in Computer Science**, *[St. Cloud State University](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud, MN*, ***(January 2020 - May 2022)***  <br>
-***Research (current):*** Automated text summarization using NLP and unsupervised machine learning algorithms.
+## Education
+##### Master of Science in Computer Science, [St. Cloud State University](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud, MN, ***(January 2020 - May 2022)***
+* ***Research (current):*** Automated text summarization using NLP and unsupervised machine learning algorithms.
 
-**Bachelor of Science in Computer Engineering**, *[St. Cloud State University](https://www.stcloudstate.edu/ece/), St. Cloud, MN*, ***(August 2015 – August 2019)***  <br>
-***Honors:*** Magna Cum Laude <br>
-***Capstone Project:*** [American Sign Langauge Letter Transalator](https://github.com/splAcharya/ASL_Alphabet_Translator) <br>
+
+##### Bachelor of Science in Computer Engineering, [St. Cloud State University](https://www.stcloudstate.edu/ece/), St. Cloud, MN, ***(August 2015 – August 2019)***
+* ***Honors:*** Magna Cum Laude
+* ***Capstone Project:*** [American Sign Langauge Letter Transalator](https://github.com/splAcharya/ASL_Alphabet_Translator)
  
-# Certifications
-**[Deep Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/EHD8WC7H4US7)** *Neural Nets, Hyperparameter Tunning, Convolutional NNs, Recurrent NNs and Sequence Modelling.* <br>
-**[Machine Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/MJEYUZ4HEBA4)** *Regression, Regularization, Classification and Clustering.* <br>
-**[Getting Started with AI on Jetson Nano](https://courses.nvidia.com/certificates/ef8081f9bd124bd59be690b042ce856e)** <br>
-**[FPGA Design for Embedded Systems](https://www.coursera.org/account/accomplishments/certificate/55HT8L4YN4LL)** <br>
+## Certifications
+* **[Deep Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/EHD8WC7H4US7)** *Neural Nets, Hyperparameter Tunning, Convolutional NNs, Recurrent NNs and Sequence Modelling.*
+* **[Machine Learning Specialization:](https://www.coursera.org/account/accomplishments/specialization/certificate/MJEYUZ4HEBA4)** *Regression, Regularization, Classification and Clustering.*
+* **[Getting Started with AI on Jetson Nano](https://courses.nvidia.com/certificates/ef8081f9bd124bd59be690b042ce856e)**
+* **[FPGA Design for Embedded Systems](https://www.coursera.org/account/accomplishments/certificate/55HT8L4YN4LL)**
 
-# Employment
 
-**Embedded Computer Vision Intern**, *[Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN*,  ***(January 2021 – Present)*** <br>
+## Employment
+
+##### Embedded Computer Vision Intern, [Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN,  ***(January 2021 – Present)*** <br>
 * Accelerated image processing pipeline used for segmentation of diabetic foot ulcer wound images by more than 80% by replacing PyImageJ APIs for color space conversion, gaussian blurring, contour detection and flood fill with similar OpenCV APIs.
 * Improved contour selection guidance by visualizing thermal data produced by thermal imager as an image matrix using K-means clustering algorithm provided by scikit-learn.
 * Reduced time taken to generate medical image analysis by more than 50% by incorporating image processing operations of ImageJ and matrix manipulation capabilities of MATLAB into a single GUI application built using TKinter, OpenCV, NumPy and Python.
@@ -65,19 +67,19 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 * Implementing deep learning algorithms by leveraging TensorFlow and Keras for object & landmark detection and semantic segmentation of thermal wound images using pretrained convolutional neural networks and U-Net architecture respectively.
 
 
-**Graduate Teaching Assistant**, *[Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University, St. Cloud, MN*, ***(January 2020 – December 2020)*** <br>
+##### Graduate Teaching Assistant, [Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University, St. Cloud, MN, ***(January 2020 – December 2020)***
 * Mentored students on concepts of data structures, algorithms, and distributed systems programming.
 * Provided weekly in-depth feedback for 40-60 students on their programming assignments such as labs, projects.
 
-**Community Advisor**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University, St. Cloud, MN*,  ***(August 2016 – May 2019)*** <br>
+##### Community Advisor, [Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University, St. Cloud, MN,  ***(August 2016 – May 2019)*** 
 * Promoted academic and personal success of 20-40 students by implementing weekly campus resource awareness events.
 * Implemented weekly social and recreational events by collaborating and communicating with on campus organizations.
  
-**Camps & Conferences Manager**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University St. Cloud, MN*,  ***(May-August 2017,2018)***<br>
+##### Camps & Conferences Manager, [Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University St. Cloud, MN,  ***(May-August 2017,2018)***
 * Supervised 10-15 diverse student employees by scheduling staffing responsibilities, preparing payroll reports and in person meetings.
 
  
- # Open Source
+ ## Open Source
  
  | ML,DL,CV,NLP Projects (*Python*)|
  |-----------------------|
