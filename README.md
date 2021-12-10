@@ -66,15 +66,15 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
 
 **Graduate Teaching Assistant**, *[Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University, St. Cloud, MN*, ***(January 2020 – December 2020)*** <br>
-•Mentored students on concepts of data structures, algorithms, and distributed systems programming. <br>
-•Provided weekly in-depth feedback for 40-60 students on their programming assignments such as labs, projects. <br>
+* Mentored students on concepts of data structures, algorithms, and distributed systems programming.
+* Provided weekly in-depth feedback for 40-60 students on their programming assignments such as labs, projects.
 
 **Community Advisor**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University, St. Cloud, MN*,  ***(August 2016 – May 2019)*** <br>
-•Promoted academic and personal success of 20-40 students by implementing weekly campus resource awareness events.<br>
-•Implemented weekly social and recreational events by collaborating and communicating with on campus organizations.<br>
+* Promoted academic and personal success of 20-40 students by implementing weekly campus resource awareness events.
+* Implemented weekly social and recreational events by collaborating and communicating with on campus organizations.
  
 **Camps & Conferences Manager**, *[Department of Residential Life](https://www.stcloudstate.edu/reslife/), St. Cloud State University St. Cloud, MN*,  ***(May-August 2017,2018)***<br>
-•Supervised 10-15 diverse student employees by scheduling staffing responsibilities, preparing payroll reports and in person meetings.<br>
+* Supervised 10-15 diverse student employees by scheduling staffing responsibilities, preparing payroll reports and in person meetings.
 
  
  # Open Source
