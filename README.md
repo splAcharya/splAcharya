@@ -59,7 +59,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
 ## Employment
 
-#### Embedded Computer Vision Intern, [Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN,  ***(January 2021 – Present)*** <br>
+#### Embedded Software Engineer - Computer Vision, [Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN,  ***(January 2021 – Present)*** <br>
 * Accelerated image processing pipeline used for segmentation of diabetic foot ulcer wound images by more than 80% by replacing PyImageJ APIs for color space conversion, gaussian blurring, contour detection and flood fill with similar OpenCV APIs.
 * Improved contour selection guidance by visualizing thermal data produced by thermal imager as an image matrix using K-means clustering algorithm provided by scikit-learn.
 * Reduced time taken to generate medical image analysis by more than 50% by incorporating image processing operations of ImageJ and matrix manipulation capabilities of MATLAB into a single GUI application built using TKinter, OpenCV, NumPy and Python.
