@@ -104,4 +104,4 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [8-bit Processor Ciruit Using Verilog](https://github.com/splAcharya/8BitProcessorCircuit_Verilog)|
 
 ## My Stats:
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splAcharya&hide=VHDL,Coq,Objective-c&show_icons=true&title_color=fff&icon_color=034694&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splAcharya&hide=VHDL,Coq,Objective-c,Shell&show_icons=true&title_color=fff&icon_color=034694&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
