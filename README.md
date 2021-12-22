@@ -38,8 +38,6 @@ Currently I work at Eden Medical, Inc as an embedded software engineer for compu
 
 I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed several systems that use Microcontrollers, FPGA(Verilog) and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
 </p>
-
-
  
 ## Education
 #### Master of Science in Computer Science, [St. Cloud State University](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud, MN, ***(January 2020 - May 2022)***
@@ -104,3 +102,9 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [Audio Equalizer Using Matlab And Simulink](https://github.com/splAcharya/AudioEqualizerMatlab_Simulink) |
  | [Data Aquisition System using PIC uC](https://github.com/splAcharya/DataAquisitionBoard_PICuC) |
  | [8-bit Processor Ciruit Using Verilog](https://github.com/splAcharya/8BitProcessorCircuit_Verilog)|
+
+## My Stats:
+
+![My github stats](https://github-readme-stats.vercel.app/api/?username=splAcharya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ee242c&bg_color=034694)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splAcharya&hide=VHDL,Coq,Objective-c&show_icons=true&title_color=fff&icon_color=034694&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
