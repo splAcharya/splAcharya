@@ -79,6 +79,8 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  
  ## Open Source
  
+ [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splAcharya&layout=compact&hide=VHDL,Coq,Objective-c,Shell&show_icons=true&title_color=fff&icon_color=034694&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+ 
  | ML,DL,CV,NLP Projects (*Python*)|
  |-----------------------|
  | [Intel_Image_Classifcaion Using Transfer Learning](https://github.com/splAcharya/Intel_Image_Classification) |
@@ -103,5 +105,4 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [Data Aquisition System using PIC uC](https://github.com/splAcharya/DataAquisitionBoard_PICuC) |
  | [8-bit Processor Ciruit Using Verilog](https://github.com/splAcharya/8BitProcessorCircuit_Verilog)|
 
-## My Stats:
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splAcharya&hide=VHDL,Coq,Objective-c,Shell&show_icons=true&title_color=fff&icon_color=034694&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
