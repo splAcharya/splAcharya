@@ -83,6 +83,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  
  | ML,DL,CV,NLP Projects (*Python*)|
  |-----------------------|
+ | [Text Generation Using RNN:GRU](https://github.com/splAcharya/RNN_Text_Generation) |
  | [Intel_Image_Classifcaion Using Transfer Learning](https://github.com/splAcharya/Intel_Image_Classification) |
  | [CNN Transfer Learning & Comparsion: Medical MNIST](https://github.com/splAcharya/Transfer_Learning_Comparision) |
  | [Sentiment Analysis: IMDB Reviews](https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis)|
