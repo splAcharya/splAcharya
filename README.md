@@ -91,7 +91,11 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [K-Means Clustering](https://github.com/splAcharya/K_Means_Clustering) |
  | [Detecting Stop Signs](https://github.com/splAcharya/DetectingStopSigns)|
 
- 
+  | System Software Projects (*C/C++*)|
+ |-----------------------|
+ | [Distributed Systems Projects](https://github.com/splAcharya/peratingAndDistributedSystemsConcepts)|
+ | [Simulate Dynamic Branch Prediction ](https://github.com/splAcharya/Simulate_Branch_Prediction)|
+
  | Web/Software Dev Projects (*Python,HTML,CSS,JavaScript*)|
  |-----------------------|
  | [Movie Review Ranker (Django & Heroku)](https://github.com/splAcharya/Movie_Review_Ranker)|
