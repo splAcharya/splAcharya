@@ -93,7 +93,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
   | System Software Projects (*C/C++*)|
  |-----------------------|
- | [Distributed Systems Projects](https://github.com/splAcharya/peratingAndDistributedSystemsConcepts)|
+ | [Distributed Systems Projects](https://github.com/splAcharya/OperatingAndDistributedSystemsConcepts)|
  | [Simulate Dynamic Branch Prediction ](https://github.com/splAcharya/Simulate_Branch_Prediction)|
 
  | Web/Software Dev Projects (*Python,HTML,CSS,JavaScript*)|
