@@ -62,6 +62,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 * Improved contour selection guidance by visualizing thermal data produced by thermal imager as an image matrix using K-means clustering algorithm provided by scikit-learn.
 * Reduced time taken to generate medical image analysis by more than 50% by incorporating image processing operations of ImageJ and matrix manipulation capabilities of MATLAB into a single GUI application built using TKinter, OpenCV, NumPy and Python.
 * Boosted scalability and portability of 3 out 4 applications deployed on jetson nano module which is used in IR-Eyes medical device by deploying applications in a containerized manner using Dockerfile to extend GPU optimized docker containers available via Nvidia’s cloud.
+* Analyze weekly thermal imaging data from patients using image analysis GUI and then update patient wound documentations.
 * Implementing deep learning algorithms by leveraging TensorFlow and Keras for object & landmark detection and semantic segmentation of thermal wound images using pretrained convolutional neural networks and U-Net architecture respectively.
 
 
