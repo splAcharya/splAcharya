@@ -34,9 +34,9 @@ In my graduate school coursework, I enjoyed distributed systems programming the 
 
 As part of my master’s degree, I am currently researching Automated text summarization using natural language processing techniques and machine learning algorithms.
 
-Currently I work at Eden Medical, Inc as an embedded software engineer for computer vision applications, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis which is deployed on edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing) and tensorflow-Keras (for object-detection, landmark detection and semantic segmentation).
+Currently I work at Eden Medical, Inc as a software engineer for computer vision applications, where I am developing containerized systems for medical image (diabetic foot ulcers) analysis which is deployed on edge device (jetson nano). This includes use of tools such as ImageJ, open-cv (for image processing), tensorflow-Keras (for object-detection, landmark detection and semantic segmentation) and docker for containerized deployment.
 
-I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed several systems that use Microcontrollers, FPGA(Verilog) and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
+I am also quite familiar with embedded systems as well. As part of my undergraduate computer engineering program, I have developed several systems that use Microcontrollers, FPGA and SOC. Most of my embedded systems projects focused on developing digital signal processing applications.
 </p>
  
 ## Education
