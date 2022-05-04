@@ -35,12 +35,11 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
 #### Software Engineer, [Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN,  ***(January 2021 – Present)*** <br>
 * Accelerated image processing pipeline used for segmentation of diabetic foot ulcer wound images by more than 80% by replacing PyImageJ APIs for color space conversion, gaussian blurring, contour detection and flood fill with similar OpenCV APIs.
-* Improved contour selection guidance by visualizing thermal data produced by thermal imager as an image matrix using K-means clustering algorithm provided by scikit-learn.
+* Implemented a guidance system for contour selection in thermal images, by visualizing thermal data using K-Means clustering algorithm from Scikit-Learn library.
 * Reduced time taken to generate medical image analysis by more than 50% by incorporating image processing operations of ImageJ and matrix manipulation capabilities of MATLAB into a single GUI application built using TKinter, OpenCV, NumPy and Python.
-* Boosted scalability and portability of 3 out 4 applications deployed on jetson nano module which is used in IR-Eyes medical device by deploying applications in a containerized manner using Dockerfile to extend GPU optimized docker containers available via Nvidia’s cloud.
-* Analyze weekly thermal imaging data from patients using image analysis GUI and then update patient wound documentations.
-* Implementing deep learning algorithms by leveraging TensorFlow and Keras for object & landmark detection and semantic segmentation of thermal wound images using pretrained convolutional neural networks and U-Net architecture respectively.
-
+* Enforced portability on 3 out 4 applications used in IR-Eyes medical device, by deploying applications within jetson nano modules in GPU optimized docker containers hosted in Nvidia’s Cloud.
+* Analyze weekly thermal imaging data from patients using image analysis GUI and then update weekly patient wound documentations.
+* Implementing deep learning algorithms by leveraging TensorFlow and Keras for object, landmark detection and semantic segmentation of thermal wound images using pretrained convolutional neural networks and U-Net architecture respectively.
 
 #### Graduate Teaching Assistant, [Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University, St. Cloud, MN, ***(January 2020 – December 2020)***
 * Mentored students on concepts of data structures, algorithms, and distributed systems programming.
