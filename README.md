@@ -39,7 +39,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 * Reduced time taken to generate medical image analysis by more than 50% by incorporating image processing operations of ImageJ and matrix manipulation capabilities of MATLAB into a single GUI application built using TKinter, OpenCV, NumPy and Python.
 * Enforced portability on 3 out 4 applications used in IR-Eyes medical device, by deploying applications within jetson nano modules in GPU optimized docker containers hosted in Nvidia’s Cloud.
 * Analyze weekly thermal imaging data from patients using image analysis GUI and then update weekly patient wound documentations.
-* Implementing deep learning algorithms by leveraging TensorFlow and Keras for object, landmark detection and semantic segmentation of thermal wound images using pretrained convolutional neural networks and U-Net architecture respectively.
+* Implemented deep learning algorithms by leveraging TensorFlow and Keras for object, landmark detection and semantic segmentation of thermal wound images using pretrained convolutional neural networks and U-Net architecture respectively.
 
 #### Graduate Teaching Assistant, [Department of CSIT](https://www.stcloudstate.edu/graduate/computer-science/default.aspx), St. Cloud State University, St. Cloud, MN, ***(January 2020 – December 2020)***
 * Mentored students on concepts of data structures, algorithms, and distributed systems programming.
