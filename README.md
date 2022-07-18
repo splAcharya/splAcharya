@@ -1,7 +1,7 @@
 ## Swapnil Acharya 
 - 📧 spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/ | St. Cloud, MN
-- 🤔 I’m looking for Full time opppurtunities On Software Development, ML, DL, NLP, CV areas
-- 💬 Ask me about Machine Learning / Deep Learning / Embedded Systems
+- 🤔 I’m looking for Full time opppurtunities On Distributed Systems, Machine Learning and Embedded Systems.
+- 💬 Ask me about Distributed Systems / Machine Learning / Embedded Systems
 
 <p>
 I love programming , be it software or hardware. I am currently pursuing Master’s degree in Computer Science.
