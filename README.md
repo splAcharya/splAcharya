@@ -33,7 +33,7 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
 
 ## Employment
 
-#### Software Engineer, [Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN,  ***(January 2021 – Present)*** <br>
+#### Software Engineer, [Eden Medical Inc](https://www.eden-medical.com/ireyes), Howard Lake, MN,  ***(January 2021 – May 2022)*** <br>
 * Accelerated image processing pipeline used for segmentation of diabetic foot ulcer wound images by more than 80% by replacing PyImageJ APIs for color space conversion, gaussian blurring, contour detection and flood fill with similar OpenCV APIs.
 * Implemented a guidance system for contour selection in thermal images, by visualizing thermal data using K-Means clustering algorithm from Scikit-Learn library.
 * Reduced time taken to generate medical image analysis by more than 50% by incorporating image processing operations of ImageJ and matrix manipulation capabilities of MATLAB into a single GUI application built using TKinter, OpenCV, NumPy and Python.
