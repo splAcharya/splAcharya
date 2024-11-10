@@ -1,3 +1,5 @@
+<!-- 
+
 ## Swapnil Acharya 
 - 📧 spl.acharya@outlook.com | https://www.linkedin.com/in/splacharya/ | St. Cloud, MN
 - 🤔 I’m looking for Full time opppurtunities On Distributed Systems, Machine Learning and Embedded Systems.
@@ -87,3 +89,4 @@ I am also quite familiar with embedded systems as well. As part of my undergradu
  | [8-bit Processor Ciruit Using Verilog](https://github.com/splAcharya/8BitProcessorCircuit_Verilog)|
 
 
+-->
