@@ -7,12 +7,6 @@ I’m particularly interested in software that lives close to **execution, memor
 
 ---
 
-🤣🤣🤣 Lately, I’ve also spent a questionable amount of time tinkering with `AGENTS.md` to steer coding agents more effectively — mostly so a week of progress does not get undone by context limits. 😭😭😭
-
----
-
----
-
 ## 🤝 Looking for mentorship
 I’m currently looking for opportunities to learn under and contribute to someone working on **systems software internals**, **low-level infrastructure**, or **research-oriented systems engineering**. I’d be glad to help in any capacity — implementation, experimentation, tooling, performance investigation, or related engineering work.
 
@@ -46,11 +40,13 @@ I’m currently looking for opportunities to learn under and contribute to someo
   NLP summarization project exploring core ideas from first principles.
 
 ---
+
 ## 🧰 Modern tools I use
 - **OpenAI Codex / Codex agents** for iterative implementation, code exploration, and workflow acceleration
 - **GitHub Copilot Pro**
 - **Claude Haiku via GitHub Copilot**
 - AI-assisted workflows for prototyping, refactoring, test generation, and documentation refinement
+- 🤣🤣🤣 Lately, I’ve also spent a questionable amount of time tinkering with `AGENTS.md` to steer coding agents more effectively — mostly so a week of progress does not get undone by context limits. 😭😭😭
   
 ---
 
