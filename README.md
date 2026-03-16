@@ -6,6 +6,10 @@ I work on and explore systems spanning **vector/search infrastructure**, **GPU/C
 I’m particularly interested in software that lives close to **execution, memory, and hardware realities**.
 
 ---
+## 🤝 Looking for mentorship
+I’m currently looking for opportunities to learn under and contribute to someone working on **systems software internals**, **low-level infrastructure**, or **research-oriented systems engineering**. I’d be glad to help in any capacity — implementation, experimentation, tooling, performance investigation, or related engineering work.
+
+---
 
 ## 🚀 Current focus
 - **Database and query execution systems**
@@ -28,10 +32,6 @@ I’m particularly interested in software that lives close to **execution, memor
 - [**cudaJourney**](https://github.com/splAcharya/cudaJourney)  
   Ongoing hands-on exploration of CUDA programming and GPU systems concepts.
 
-### 🖥️ Systems / Architecture
-- [**Simulate_Branch_Prediction**](https://github.com/splAcharya/Simulate_Branch_Prediction)  
-  Branch prediction simulation and low-level architecture exploration.
-
 ### 🤖 ML / Foundations
 - [**DetectingStopSigns**](https://github.com/splAcharya/DetectingStopSigns)  
   Computer vision implementation work.
@@ -48,11 +48,6 @@ I’m particularly interested in software that lives close to **execution, memor
 
 ## 📍What I enjoy
 I like building systems where **performance matters**, **internals matter**, and **hardware behavior influences software design**.
-
----
-
-## 🤝 Looking for mentorship
-I’m currently looking for opportunities to learn under and contribute to someone working on **systems software internals**, **low-level infrastructure**, or **research-oriented systems engineering**. I’d be glad to help in any capacity — implementation, experimentation, tooling, performance investigation, or related engineering work.
 
 ---
 
