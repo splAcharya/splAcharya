@@ -5,7 +5,11 @@
 I work on and explore systems spanning **vector/search infrastructure**, **GPU/CUDA programming**, **computer architecture**, and **hardware-aware software design**.  
 I’m particularly interested in software that lives close to **execution, memory, and hardware realities**. 
 
+---
+
 🤣🤣🤣 Lately, I’ve also spent a questionable amount of time tinkering with `AGENTS.md` to steer coding agents more effectively — mostly so a week of progress does not get undone by context limits. 😭😭😭
+
+---
 
 ---
 ## 🤝 Looking for mentorship
@@ -45,13 +49,17 @@ I’m currently looking for opportunities to learn under and contribute to someo
 - **GitHub Copilot Pro**
 - **Claude Haiku via GitHub Copilot**
 - AI-assisted workflows for prototyping, refactoring, test generation, and documentation refinement
+  
 ---
+
 ## 🧠 Technical themes
 `Database Systems` · `ML Infra` · `Vector Search` · `CUDA` · `GPU Systems` · `Low-Level Software` · `Computer Architecture` · `Hardware-Software Co-Design`
+
 ---
 
 ## 📍What I enjoy 
 I like building systems where **performance matters**, **internals matter**, and **hardware behavior influences software design**.
+
 ---
 
 ## 📫 Connect
