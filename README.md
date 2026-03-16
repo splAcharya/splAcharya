@@ -12,8 +12,10 @@ I’m particularly interested in software that lives close to **execution, memor
 ---
 
 ---
+
 ## 🤝 Looking for mentorship
 I’m currently looking for opportunities to learn under and contribute to someone working on **systems software internals**, **low-level infrastructure**, or **research-oriented systems engineering**. I’d be glad to help in any capacity — implementation, experimentation, tooling, performance investigation, or related engineering work.
+
 ---
 
 ## 🚀 Current focus
