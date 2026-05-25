@@ -1,3 +1,4 @@
+<!--
 # Hi, I'm Swapnil Acharya 👋
 
 > Systems software engineer interested in **database internals**, **ML infrastructure**, and **performance-critical low-level software**.
@@ -63,3 +64,4 @@ I like building systems where **performance matters**, **internals matter**, and
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/splacharya/)
 - Email: **spl.acharya@outlook.com**
+-->
